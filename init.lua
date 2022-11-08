@@ -14,5 +14,3 @@ require('plugin_load')
 
 require('nvim-tree').setup()
 require('telescope').setup()
-
-vim.cmd('colorscheme zenburned')
